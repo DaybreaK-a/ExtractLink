@@ -1,0 +1,11 @@
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\bin\Debug\AutoCensorship.exe.config
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\bin\Debug\AutoCensorship.exe
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\bin\Debug\AutoCensorship.pdb
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\ExtractLink.csproj.AssemblyReference.cache
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\URLParser.Form1.resources
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\AutoCensorship.Properties.Resources.resources
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\AutoCensorship.UserControl1.resources
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\ExtractLink.csproj.GenerateResource.cache
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\ExtractLink.csproj.CoreCompileInputs.cache
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\AutoCensorship.exe
+E:\2-й Курс\2-й Семестр\ГДИК\ДианаНикита\P\AutoCensorship\obj\Debug\AutoCensorship.pdb
